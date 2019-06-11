@@ -1,6 +1,5 @@
 ## Self-Supervised Exploration via Disagreement ##
-#### [[Project Website]](https://pathak22.github.io/exploration-by-disagreement/)
-<!-- [[Demo Video]](https://youtu.be/l1FqtAHfJLI) -->
+#### [[Project Website]](https://pathak22.github.io/exploration-by-disagreement/) [[Demo Video]](https://youtu.be/POlrWt32_ec)
 
 [Deepak Pathak*](https://people.eecs.berkeley.edu/~pathak/), [Dhiraj Gandhi*](http://www.cs.cmu.edu/~dgandhi/), [Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg/)<br/>
 (&#42; equal contribution)
@@ -33,7 +32,7 @@ To use more than one gpu/machine, use MPI (e.g. `mpiexec -n 8 python run.py` sho
 ### Other helpful pointers
 - [Paper](https://pathak22.github.io/exploration-by-disagreement/resources/icml19.pdf)
 - [Project Website](https://pathak22.github.io/exploration-by-disagreement/)
-<!-- - [Demo Video](https://youtu.be/l1FqtAHfJLI) -->
+- [Demo Video](https://youtu.be/POlrWt32_ec)
 
 ### Acknowledgement
 
